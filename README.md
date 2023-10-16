@@ -9,11 +9,11 @@ language:
 library_name: diffusers
 ---
 ### fantasy-diffusion-v1 diffusion ML model by Ryzan (Ryan Han)
+### To use the model, go to: [https://huggingface.co/Ryzan/fantasy-diffusion-v1](https://huggingface.co/Ryzan/fantasy-diffusion-v1)
 This is currently a base model
 <br />
 trained by me with DreamBooth
 <br />
-###To use the model, go to: [https://huggingface.co/Ryzan/fantasy-diffusion-v1](https://huggingface.co/Ryzan/fantasy-diffusion-v1)
 <br />
 This model is trained on 400 images of semi-realistic fantasy art 
 (mostly female so expect results to be mostly female too)
